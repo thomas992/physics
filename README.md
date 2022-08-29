@@ -9,7 +9,9 @@ Gravity including the moon, or multiple moons, multiple suns. It should be able 
 ### Meterology, tide
 
 Wind patterns, mirroring live meterology data. Adjusting calculations to compensate for the actual speed below the surface water.
-If the moon crashed into Earth and you were at the right spot, hypotethically one would see water rise up towards the moon before impact.
+
+https://www.youtube.com/watch?v=lheapd7bgLA
+watching this video I think it would be awesome in a 3d environment. (references to Majora's Mask at beginning)
 
 ### Water in 3d
 
